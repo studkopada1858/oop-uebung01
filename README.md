@@ -10,7 +10,7 @@ In dieser Übung implementieren wir die Datenstruktur _Stack_ (siehe Interface `
 
 1. Erstellen Sie wieder einen persönlichen Fork des Projekts.
 
-2. Klonen Sie das Projekt lokal, in dem Sie in IntelliJ das Projekt von Git importieren lassen, oder "per Hand" in der Konsole: `git clone htps://github.com/IHR_BENUTZERNAME/example.git`
+2. Klonen Sie das Projekt lokal, in dem Sie in IntelliJ das Projekt von Git importieren lassen, oder "per Hand" in der Konsole: `git clone https://github.com/IHR_BENUTZERNAME/example.git`
 
 3. Erstellen Sie einen lokalen Branch `loesung` (oder einem anderen Namen Ihrer Wahl)
 	- IntelliJ: Git Schaltfläche rechts unten -> "+ New Branch"
