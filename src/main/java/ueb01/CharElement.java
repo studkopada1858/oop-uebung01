@@ -6,7 +6,7 @@ public class CharElement {
         CharElement next;
 
         public CharElement (char c, CharElement next){
-            this.c=c; 
+            this.c=c;
             this.next=next;
         }
         public char value(){
